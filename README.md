@@ -1,5 +1,4 @@
-# Ibrahim Malik
-# 20207593
+Ibrahim Malik - 20207593
 
 ## Synopsis
 
