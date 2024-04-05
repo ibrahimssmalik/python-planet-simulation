@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Ibrahim Malik
 20207593
+=======
+Ibrahim Malik - 20207593
+>>>>>>> 8aa5c9d77b4a6d410c67451620d98672de2621d3
 
 ## Synopsis
 
