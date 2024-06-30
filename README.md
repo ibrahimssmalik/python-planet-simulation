@@ -17,8 +17,7 @@ Simulation Project Report - report involving explanations of code and output res
 ## Dependencies
 
 matplotlib.backends.backend_pdf
-matplotlib.pyplot
-IPython  
+matplotlib.pyplot 
 numpy as np
 random
 time
